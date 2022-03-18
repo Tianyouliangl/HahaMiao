@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="click"
+            type="com.xiaomaoyuedan.live.ui.splash.SplashActivity.OnViewClick" />
+    </data>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:animateLayoutChanges="true"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_splash"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_marginBottom="@dimen/dp_100"
+            android:layout_height="match_parent"/>
+
+        <com.xiaomaoyuedan.live.widget.CountDownView
+            android:id="@+id/launcher_countdown"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            app:countdownTime="3"
+            app:ringColor="@color/light_blue"
+            app:ringWidth="2"
+            app:progressTextColor="@color/white"
+            app:progressTextSize="11sp"
+            android:onClick="@{() -> click.goMainActivity()}"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="25dp"/>
+
+    </RelativeLayout>
+
+</layout>

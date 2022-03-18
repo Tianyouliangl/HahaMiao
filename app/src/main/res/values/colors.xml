@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/global</color>
+    <color name="colorPrimaryDark">@color/global</color>
+    <color name="colorAccent">@color/global</color>
+
+    <color name="global">#4998F7</color>
+    <color name="light_blue">#8FF1FF</color>
+    <color name="deep_blue">#00E9F2</color>
+    <color name="FFDE00">#FFDE00</color>
+    <color name="background">@color/gray2</color>
+    <color name="transparent">#00000000</color>
+    <color name="textColor">#323232</color>
+    <color name="white">#ffffff</color>
+    <color name="gray1">#969696</color>
+
+    <color name="dress_up_tab_select">#E3CA97</color>
+    <color name="dress_up_tab_normal">#BABFDA</color>
+    <color name="gift_record_line_tab">#E85881</color>
+
+
+    <color name="dress_up_status_ing">#E9C990</color>
+    <color name="dress_up_status_un_have">#A49CB6</color>
+
+    <color name="gray2">#fafafa</color>
+    <color name="gray3">#c8c8c8</color>
+    <color name="gray4">#f5f5f5</color>
+    <color name="gray5">#B5B5B5</color>
+    <color name="gray6">#f0f0f0</color>
+    <color name="gray7">#E5E5E5</color>
+    <color name="gray9">#F6F7F9</color>
+    <color name="gray12">#979797</color>
+    <color name="gray13">#c9c9c9</color>
+
+
+    <color name="blue1">#EFF6FF</color>
+    <color name="textColor2">#646464</color>
+    <color name="textColor9">#999999</color>
+    <color name="red">#FF124F</color>
+    <color name="pink">#E85881</color>
+    <color name="red2">#FF5663</color>
+    <color name="red3">#F72332</color>
+    <color name="black1">#e6323232</color>
+    <color name="purple">#B587EE</color>
+    <color name="textColor3">#505050</color>
+    <color name="gray">#999999</color>
+    <color name="c9">#999999</color>
+    <color name="c6">#666666</color>
+    <color name="black">#000000</color>
+    <color name="c3">#333333</color>
+    <color name="ce">#EEEEEE</color>
+    <color name="cc">#CCCCCC</color>
+    <color name="blue_4594FF">#4594FF</color>
+    <color name="black_151522">#151522</color>
+    <color name="white_transparent">#55ffffff</color>
+    <color name="gray_666">#666666</color>
+    <color name="gray_ccc">#CCCCCC</color>
+
+    <color name="blue_1">#6E94F5</color>
+    <color name="black_live">#1E1929</color>
+
+    <color name="lucky_gray">#A4A4BC</color>
+
+
+    <color name="crystal_purple">#C481FF</color>
+    <color name="crystal_blue">#85BDFF</color>
+
+    <color name="text_create_fleet_checked">#251E42</color>
+    <color name="text_create_fleet_normal">#CCCCCC</color>
+
+<color name="tv_union_normal">#FADFC8</color>
+<color name="tv_union_select">#D26929</color>
+
+    <color name="board_first">#FFED6D</color>
+    <color name="board_second">#C9C7C6</color>
+    <color name="board_third">#D6C8B0</color>
+</resources>
